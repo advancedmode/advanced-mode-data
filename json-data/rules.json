@@ -54,5 +54,12 @@
         "ruleName": "The Klingon Rule",
         "description": "Should one player shout {Qapla'!} and beat their chest with their fist, the other player(s) should do the same before continuing play. It must be done as demonstrated in this video, or it does not count: https://youtu.be/auqS6FR_RDE?t=98",
         "details": "This rule can be called {chut tlhIngan} by Klingon speakers"
+    },
+    {
+        "identifier": "merlin",
+        "aliases": [],
+        "ruleName": "The Merlin Rule",
+        "description": "Should one player shout the word \"Merlin\", any players opposing them must hold the racket between their thumb and forefinger for the next 3 rounds.",
+        "details": "It is advised this rule is played with a cooldown. This rule is so called as it was developed to be part of the King Arthur variation."
     }
 ]
