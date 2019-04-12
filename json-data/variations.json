@@ -1,0 +1,11 @@
+[
+    {
+        "identifier": "kingarthur",
+        "aliases": ["king arthur","arthur"],
+        "name": "King Arthur Variation.",
+        "description": "Hail, good sir knight! Welcome to the round table endorsed variation of Advanced Mode Badminton.\nThis mode is only for the brave, and will result in missing 80% more shots than normal advanced mode.\n1) Wield Your Racket! - A true knight grasps his weapon with both hands, even if that weapon is a racket and it is upside down.\n2) Protect Camelot! - Your side of the net is now called Camelot. You must prevent siege shuttlecocks from landing in it. If your opponent says their area is called Camelot, they are a pretender, and you therefore have an even better reason to attack.\n3) Beware Magic! - The power of Merlin can change the course of a match. If a player shouts \"Merlin!\", then all players must switch to holding the racket in there thumb and forefinger. This allows you to temporarily circumvent rule 1 of Advanced Mode, but only until the shuttlecock lands.\n4) Take Your Place Around The Round Table! (optional) - this rule is only useable if you have a table of circular shape. If so, loss occurs if it lands near you or on the table, and you can move around the table as you see fit.\n5) A Knight Fights With Honor! - A true knight admits when he is defeated, and never cheats or deceives.\nFare thee well, sir knight, and bring glory to Camelot!",
+        "details": null,
+        "rules": ["merlin"],
+        "styles": []
+    }
+]

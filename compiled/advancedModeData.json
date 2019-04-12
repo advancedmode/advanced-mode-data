@@ -1,0 +1,139 @@
+{
+    "rules": {
+        "data": {
+            "physicist": {
+                "identifier": "physicist",
+                "aliases": [
+                    "physicists"
+                ],
+                "name": "The Physicist's Rule",
+                "description": "As long as the shuttlecock (or other item) hits matter of any kind, it is considered \"in\".",
+                "details": "This rule effectively means that the majority of shots are in, especially when playing on Earth (or other similar planets). This rule invalidates Version 2 of this rule."
+            },
+            "physicistv2": {
+                "identifier": "physicistv2",
+                "aliases": [
+                    "physicist2",
+                    "physicists2",
+                    "physicistsv2"
+                ],
+                "name": "The Physicist's Rule Version 2",
+                "description": "If the shuttlecock is touched by a photon, it is considered \"out\".",
+                "details": "This rule effectively means that the majority of shots are out, especially when playing on Earth. This rule invalidates the original version of this rule."
+            },
+            "ghost": {
+                "identifier": "ghost",
+                "aliases": [],
+                "name": "The Ghost Rule",
+                "description": "If the shuttlecock passes through the net (perhaps through a large enough hole), should the person who performed this action gain points before hitting the shuttlecock again, the points gained are doubled.",
+                "details": null
+            },
+            "benjeffery": {
+                "identifier": "benjeffery",
+                "aliases": [
+                    "benj",
+                    "irrelevantnet"
+                ],
+                "name": "The Ben Jeffery Rule",
+                "description": "Invoking this almighty rule allows you to remove grates from doors. This rule makes the net irrelevant, and therefore should the shuttlecock pass under the net, it still counts as if it went over the net.",
+                "details": "The name and description of this rule is an inside joke, so don't worry too much about it ;)"
+            },
+            "tippingpoint": {
+                "identifier": "tippingpoint",
+                "aliases": [
+                    "tipping"
+                ],
+                "name": "The Tipping Point Rule",
+                "description": "You can play right up to (and touching) the net.",
+                "details": "This rule is so named because you could literally tip the shuttlecock just over the net using this rule."
+            },
+            "invasion": {
+                "identifier": "invasion",
+                "aliases": [],
+                "name": "The Invasion Rule",
+                "description": "You can hit the shuttlecock on the other side of the net.",
+                "details": null
+            },
+            "inverted": {
+                "identifier": "inverted",
+                "aliases": [
+                    "invert"
+                ],
+                "name": "The Inverted Rule",
+                "description": "To win the point, the other player must perform a shot you are unable to hit back over the net. You must hit the shot back if you are able to, and you may not hit it in such a way that would guarantee you a point (i.e. you can't hit it away from the net on purpose).",
+                "details": "This rule is rare, as it contains multiple rules, but does not necessarily constitute a full variation."
+            },
+            "klingon": {
+                "identifier": "klingon",
+                "aliases": [
+                    "tlhingan",
+                    "chut",
+                    "chut tlhingan",
+                    "qapla"
+                ],
+                "name": "The Klingon Rule",
+                "description": "Should one player shout {Qapla'!} and beat their chest with their fist, the other player(s) should do the same before continuing play. It must be done as demonstrated in this video, or it does not count: https://youtu.be/auqS6FR_RDE?t=98",
+                "details": "This rule can be called {chut tlhIngan} by Klingon speakers"
+            },
+            "merlin": {
+                "identifier": "merlin",
+                "aliases": [],
+                "name": "The Merlin Rule",
+                "description": "Should one player shout the word \"Merlin\", any players opposing them must hold the racket between their thumb and forefinger for the next 3 rounds.",
+                "details": "It is advised this rule is played with a cooldown. This rule is so called as it was developed to be part of the King Arthur variation."
+            }
+        },
+        "aliases": {
+            "physicists": "physicist",
+            "physicist2": "physicistv2",
+            "physicists2": "physicistv2",
+            "physicistsv2": "physicistv2",
+            "benj": "benjeffery",
+            "irrelevantnet": "benjeffery",
+            "tipping": "tippingpoint",
+            "invert": "inverted",
+            "tlhingan": "klingon",
+            "chut": "klingon",
+            "chut tlhingan": "klingon",
+            "qapla": "klingon"
+        }
+    },
+    "styles": {
+        "data": {
+            "sword": {
+                "identifier": "sword",
+                "aliases": [
+                    "kingarthur"
+                ],
+                "name": "The Sword Style",
+                "description": "Hold your racket with two hands. Maintain the upside-down position, as rule 1 demands.",
+                "details": null
+            }
+        },
+        "aliases": {
+            "kingarthur": "sword"
+        }
+    },
+    "variations": {
+        "data": {
+            "kingarthur": {
+                "identifier": "kingarthur",
+                "aliases": [
+                    "king arthur",
+                    "arthur"
+                ],
+                "name": "King Arthur Variation.",
+                "description": "Hail, good sir knight! Welcome to the round table endorsed variation of Advanced Mode Badminton.\nThis mode is only for the brave, and will result in missing 80% more shots than normal advanced mode.\n1) Wield Your Racket! - A true knight grasps his weapon with both hands, even if that weapon is a racket and it is upside down.\n2) Protect Camelot! - Your side of the net is now called Camelot. You must prevent siege shuttlecocks from landing in it. If your opponent says their area is called Camelot, they are a pretender, and you therefore have an even better reason to attack.\n3) Beware Magic! - The power of Merlin can change the course of a match. If a player shouts \"Merlin!\", then all players must switch to holding the racket in there thumb and forefinger. This allows you to temporarily circumvent rule 1 of Advanced Mode, but only until the shuttlecock lands.\n4) Take Your Place Around The Round Table! (optional) - this rule is only useable if you have a table of circular shape. If so, loss occurs if it lands near you or on the table, and you can move around the table as you see fit.\n5) A Knight Fights With Honor! - A true knight admits when he is defeated, and never cheats or deceives.\nFare thee well, sir knight, and bring glory to Camelot!",
+                "details": null,
+                "rules": [
+                    "merlin"
+                ],
+                "styles": []
+            }
+        },
+        "aliases": {
+            "king arthur": "kingarthur",
+            "arthur": "kingarthur"
+        }
+    }
+}

@@ -2,63 +2,63 @@
     {
         "identifier": "physicist",
         "aliases": ["physicists"],
-        "ruleName": "The Physicist's Rule",
+        "name": "The Physicist's Rule",
         "description": "As long as the shuttlecock (or other item) hits matter of any kind, it is considered \"in\".",
         "details": "This rule effectively means that the majority of shots are in, especially when playing on Earth (or other similar planets). This rule invalidates Version 2 of this rule."
     },
     {
         "identifier": "physicistv2",
         "aliases": ["physicist2", "physicists2", "physicistsv2"],
-        "ruleName": "The Physicist's Rule Version 2",
+        "name": "The Physicist's Rule Version 2",
         "description": "If the shuttlecock is touched by a photon, it is considered \"out\".",
         "details": "This rule effectively means that the majority of shots are out, especially when playing on Earth. This rule invalidates the original version of this rule."
     },
     {
         "identifier": "ghost",
         "aliases": [],
-        "ruleName": "The Ghost Rule",
+        "name": "The Ghost Rule",
         "description": "If the shuttlecock passes through the net (perhaps through a large enough hole), should the person who performed this action gain points before hitting the shuttlecock again, the points gained are doubled.",
         "details": null
     },
     {
         "identifier": "benjeffery",
         "aliases": ["benj","irrelevantnet"],
-        "ruleName": "The Ben Jeffery Rule",
+        "name": "The Ben Jeffery Rule",
         "description": "Invoking this almighty rule allows you to remove grates from doors. This rule makes the net irrelevant, and therefore should the shuttlecock pass under the net, it still counts as if it went over the net.",
         "details": "The name and description of this rule is an inside joke, so don't worry too much about it ;)"
     },
     {
         "identifier": "tippingpoint",
         "aliases": ["tipping"],
-        "ruleName": "The Tipping Point Rule",
+        "name": "The Tipping Point Rule",
         "description": "You can play right up to (and touching) the net.",
         "details": "This rule is so named because you could literally tip the shuttlecock just over the net using this rule."
     },
     {
         "identifier": "invasion",
         "aliases": [],
-        "ruleName": "The Invasion Rule",
+        "name": "The Invasion Rule",
         "description": "You can hit the shuttlecock on the other side of the net.",
         "details": null
     },
     {
         "identifier": "inverted",
         "aliases": ["invert"],
-        "ruleName": "The Inverted Rule",
+        "name": "The Inverted Rule",
         "description": "To win the point, the other player must perform a shot you are unable to hit back over the net. You must hit the shot back if you are able to, and you may not hit it in such a way that would guarantee you a point (i.e. you can't hit it away from the net on purpose).",
         "details": "This rule is rare, as it contains multiple rules, but does not necessarily constitute a full variation."
     },
     {
         "identifier": "klingon",
         "aliases": ["tlhingan","chut","chut tlhingan","qapla"],
-        "ruleName": "The Klingon Rule",
+        "name": "The Klingon Rule",
         "description": "Should one player shout {Qapla'!} and beat their chest with their fist, the other player(s) should do the same before continuing play. It must be done as demonstrated in this video, or it does not count: https://youtu.be/auqS6FR_RDE?t=98",
         "details": "This rule can be called {chut tlhIngan} by Klingon speakers"
     },
     {
         "identifier": "merlin",
         "aliases": [],
-        "ruleName": "The Merlin Rule",
+        "name": "The Merlin Rule",
         "description": "Should one player shout the word \"Merlin\", any players opposing them must hold the racket between their thumb and forefinger for the next 3 rounds.",
         "details": "It is advised this rule is played with a cooldown. This rule is so called as it was developed to be part of the King Arthur variation."
     }
