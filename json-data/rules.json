@@ -19,5 +19,12 @@
         "ruleName": "The Ghost Rule",
         "description": "If the shuttlecock passes through the net (perhaps through a large enough hole), should the person who performed this action gain points before hitting the shuttlecock again, the points gained are doubled.",
         "details": null
+    },
+    {
+        "identifier": "benjeffery",
+        "aliases": ["benj","irrelevantnet"],
+        "ruleName": "The Ben Jeffery Rule",
+        "description": "Invoking this almighty rule allows you to remove grates from doors. This rule makes the net irrelevant, and therefore should the shuttlecock pass under the net, it still counts as if it went over the net.",
+        "details": "The name and description of this rule is an inside joke, so don't worry too much about it ;)"
     }
 ]
