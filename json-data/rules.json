@@ -26,5 +26,12 @@
         "ruleName": "The Ben Jeffery Rule",
         "description": "Invoking this almighty rule allows you to remove grates from doors. This rule makes the net irrelevant, and therefore should the shuttlecock pass under the net, it still counts as if it went over the net.",
         "details": "The name and description of this rule is an inside joke, so don't worry too much about it ;)"
+    },
+    {
+        "identifier": "tippingpoint",
+        "aliases": ["tipping"],
+        "ruleName": "The Tipping Point Rule",
+        "description": "You can play right up to (and touching) the net.",
+        "details": "This rule is so named because you could literally tip the shuttlecock just over the net using this rule."
     }
 ]
