@@ -1,0 +1,12 @@
+[
+    {
+        "ruleName": "The Physicist's Rule",
+        "description": "As long as the shuttlecock (or other item) hits matter of any kind, it is considered \"in\".",
+        "details": "This rule effectively means that the majority of shots are in, especially when playing on Earth (or other similar planets). This rule invalidates Version 2 of this rule."
+    },
+    {
+        "ruleName": "The Physicist's Rule Version 2",
+        "description": "If the shuttlecock is touched by a photon, it is considered \"out\".",
+        "details": "This rule effectively means that the majority of shots are out, especially when playing on Earth. This rule invalidates the original version of this rule."
+    }
+]
