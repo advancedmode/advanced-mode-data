@@ -33,5 +33,12 @@
         "ruleName": "The Tipping Point Rule",
         "description": "You can play right up to (and touching) the net.",
         "details": "This rule is so named because you could literally tip the shuttlecock just over the net using this rule."
+    },
+    {
+        "identifier": "invasion",
+        "aliases": [],
+        "ruleName": "The Invasion Rule",
+        "description": "You can hit the shuttlecock on the other side of the net.",
+        "details": null
     }
 ]
