@@ -40,5 +40,12 @@
         "ruleName": "The Invasion Rule",
         "description": "You can hit the shuttlecock on the other side of the net.",
         "details": null
+    },
+    {
+        "identifier": "inverted",
+        "aliases": ["invert"],
+        "ruleName": "The Inverted Rule",
+        "description": "To win the point, the other player must perform a shot you are unable to hit back over the net. You must hit the shot back if you are able to, and you may not hit it in such a way that would guarantee you a point (i.e. you can't hit it away from the net on purpose).",
+        "details": "This rule is rare, as it contains multiple rules, but does not necessarily constitute a full variation."
     }
 ]
